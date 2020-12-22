@@ -1,2 +1,5 @@
-master branch confilct
 
+
+=======
+master branch conflict
+>>>>>>> branch2
