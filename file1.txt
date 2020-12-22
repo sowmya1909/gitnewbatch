@@ -1,4 +1,14 @@
 this is the first line
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 this is the second line
 this is the third line
 
+=======
+bc
+bcd
+>>>>>>> Stashed changes
+=======
+bc
+bcd
+>>>>>>> Stashed changes
